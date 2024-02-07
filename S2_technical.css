@@ -1,0 +1,180 @@
+.container{
+    width: 150px;
+    padding: 200px 200px;
+}
+
+.btn-monday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: purple;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+  }
+.btn-monday{
+    transition: all .2s ease-in-out;
+}
+.btn-monday:hover{
+    transform: scale(1.1); 
+}
+.btn-monday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-tuesday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: pink;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+  }
+.btn-tuesday{
+    transition: all .2s ease-in-out;
+}
+.btn-tuesday:hover{
+    transform: scale(1.1); 
+}
+.btn-tuesday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-wednesday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: blue;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.btn-wednesday{
+    transition: all .2s ease-in-out;
+}
+.btn-wednesday:hover{
+    transform: scale(1.1); 
+}
+.btn-wednesday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-thursday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: greenyellow;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+  }
+.btn-thursday{
+    transition: all .2s ease-in-out;
+}
+.btn-thursday:hover{
+    transform: scale(1.1); 
+}
+.btn-thursday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-friday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: yellow;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.btn-friday{
+    transition: all .2s ease-in-out;
+}
+.btn-friday:hover{
+    transform: scale(1.1);
+}
+.btn-friday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-saturday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: orange;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.btn-saturday{
+    transition: all .2s ease-in-out;
+}
+.btn-saturday:hover{
+    transform: scale(1.1);
+}
+.btn-saturday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
+.btn-sunday {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: red;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.btn-sunday{
+    transition: all .2s ease-in-out;
+}
+.btn-sunday:hover{
+    transform: scale(1.1);
+}
+.btn-sunday:active{
+    box-shadow: 0 2px;
+    transform: translateY(2px);
+}
+
